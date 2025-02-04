@@ -1,0 +1,23 @@
+Uncompressed File Size for Yellow Taxi Data (2020-12):
+
+Answer: 134.5 MB
+
+Rendered Value of the Variable file:
+
+Answer: green_tripdata_2020-04.csv
+
+Number of Rows for Yellow Taxi Data in 2020:
+
+Answer: 24,648,499
+
+Number of Rows for Green Taxi Data in 2020:
+
+Answer: 1,342,034
+
+Number of Rows for Yellow Taxi Data in March 2021:
+
+Answer: 1,428,092
+
+Configuring Timezone to New York in a Schedule Trigger:
+
+Answer: Add a timezone property set to America/New_York in the Schedule trigger configuration.
